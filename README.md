@@ -4,7 +4,13 @@
 
 ---
 
-## Overview
+## Update changes
+- ```git add .    ```
+- ```git status   ```
+- ```git commit -m "commit message"   ```
+- ```git pull origin master   ```
+- ```git push origin master ```
+
 
 **PG4** 2024/2025
 
@@ -12,13 +18,6 @@
 
 👤 **Jan Sváček**
 
----
 
-               __________1__________
-              /                     \
-         ____1____               ____2____
-        /         \             /         \
-     __3__       __5__       __8__      __13__
-    
 
 
