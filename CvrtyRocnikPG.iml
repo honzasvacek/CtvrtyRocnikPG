@@ -8,6 +8,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Singelton" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Factory" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PrevodSoustavy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GenerickaTrida" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Iterator_Du" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Multiton" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AnonymniTridy&amp;Lambda" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
