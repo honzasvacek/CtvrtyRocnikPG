@@ -12,6 +12,7 @@ public class NejmensiCislo {
     }
 
     public static int getSmaller(int x, int y) {
+        /** vrati mensi z cisel */
         return x < y ? x : y;
     }
 }
