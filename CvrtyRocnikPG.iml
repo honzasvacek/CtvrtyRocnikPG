@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Multiton" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/AnonymniTridy&amp;Lambda" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/UnitTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Garf" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
