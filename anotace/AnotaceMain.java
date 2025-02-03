@@ -11,6 +11,13 @@ public class AnotaceMain {
         } else {
             System.out.println("Třída nemá anotaci @Autor");
         }
+
+        for(var method: mojeTrida.getClass().getMethods()) {
+            if (method.isAnnotationPresent(Zpracuj.class)) {
+                System.out.println(method.getName());
+                //method.invoke(MojeTrida);
+            }
+        }
     }
 }
 

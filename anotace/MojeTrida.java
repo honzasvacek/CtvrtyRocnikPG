@@ -1,12 +1,13 @@
 @Autor(jmeno = "Pepa z Depa")
+@Deprecated
 public class MojeTrida {
 
-    @Zpracuj
+    @Zpracuj(priorita = 1)
     public void metoda1() {
         System.out.println("Zpracovávám metodu 1");
     }
 
-    @Zpracuj()
+    @Zpracuj(priorita = 10)
     public void metoda2() {
         System.out.println("Zpracovávám metodu 2");
     }
