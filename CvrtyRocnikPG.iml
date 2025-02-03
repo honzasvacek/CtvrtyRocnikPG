@@ -14,6 +14,9 @@
       <sourceFolder url="file://$MODULE_DIR$/AnonymniTridy&amp;Lambda" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/UnitTest" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Garf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Graf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Test27012025" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/anotace" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
