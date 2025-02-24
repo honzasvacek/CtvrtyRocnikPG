@@ -13,8 +13,15 @@
       <sourceFolder url="file://$MODULE_DIR$/Multiton" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/AnonymniTridy&amp;Lambda" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/UnitTest" isTestSource="false" />
+<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$/GenerickyZasobnikDU" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/UML" isTestSource="false" />
+=======
+      <sourceFolder url="file://$MODULE_DIR$/Garf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Graf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Test27012025" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/anotace" isTestSource="false" />
+>>>>>>> 46b4e525f10cd4077e9a48ec5b737c7905745d1c
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
